@@ -1,0 +1,11 @@
+ {
+  "Annie": {
+    "Enabled": true,
+    "Version": "1.0.0.0"
+  },
+  
+  "Ashe": {
+    "Enabled": true,
+    "Version": "1.0.0.0"
+  }
+}
