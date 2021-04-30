@@ -1,16 +1,18 @@
- {
-  "BaseULT": {
-    "Enabled": true,
-    "Version": "1.0.0.0"
-  },
-  
-  "Annie": {
-    "Enabled": true,
-    "Version": "1.0.0.0"
-  },
-  
-  "Ashe": {
-    "Enabled": true,
-    "Version": "1.0.0.0"
-  }
+{
+   "BaseULT":{
+      "Enabled":true,
+      "Version":"1.0.0.0"
+   },
+   "Prediction":{
+      "Enabled":true,
+      "Version":"1.0.0.0"
+   },
+   "Annie":{
+      "Enabled":true,
+      "Version":"1.0.0.0"
+   },
+   "Ashe":{
+      "Enabled":true,
+      "Version":"1.0.0.0"
+   }
 }
