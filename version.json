@@ -14,5 +14,9 @@
    "Ashe":{
       "Enabled":true,
       "Version":"1.0.0.0"
+   },
+   "Kalista":{
+      "Enabled":true,
+      "Version":"1.0.0.0"
    }
 }
