@@ -7,6 +7,10 @@
       "Enabled":true,
       "Version":"1.0.0.0"
    },
+   "FakeClicks":{
+      "Enabled":true,
+      "Version":"1.0.0.0"
+   },
    "Annie":{
       "Enabled":true,
       "Version":"1.0.0.1"
