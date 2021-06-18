@@ -5,7 +5,7 @@
    },
    "Prediction":{
       "Enabled":true,
-      "Version":"1.0.0.1"
+      "Version":"1.0.0.2"
    },
    "FakeClicks":{
       "Enabled":true,
