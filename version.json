@@ -1,7 +1,7 @@
 {
    "BaseULT":{
       "Enabled":true,
-      "Version":"1.0.0.1"
+      "Version":"1.0.0.3"
    },
    "Prediction":{
       "Enabled":true,
@@ -17,10 +17,10 @@
    },
    "Ashe":{
       "Enabled":true,
-      "Version":"1.0.0.1"
+      "Version":"1.0.0.3"
    },
    "Kalista":{
       "Enabled":true,
-      "Version":"1.0.0.1"
+      "Version":"1.0.0.3"
    }
 }
